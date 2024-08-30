@@ -91,6 +91,58 @@ button :hover{
     letter-spacing: 2%;
     color: #434455;
 }
-
-
-
+.team-class{
+    background-color: #F4F4FD;
+}
+.team-class h2{
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.1;
+    text-align: center;
+    letter-spacing: 2%;
+    color: #2E2F42;
+}
+.team-class-list li{
+    list-style: none;
+    background-color: #FFFFFF;
+}
+.team-class-list h3{
+    font-size: 20px;
+    font-weight: 500;
+    text-align: center;
+    letter-spacing: 2%;
+    line-height: 1.2;
+    color: #2E2F42;
+}
+.team-class-list p{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 2%;
+    text-align: center;
+    color: #434455;
+}
+.portfolio h2{
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.1;
+    text-align: center;
+    letter-spacing: 2%;
+    color: #2E2F42;
+}
+.portfolio-list li{
+    list-style: none;
+}
+.portfolio-list h3{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 2%;
+    color: #2E2F42;
+}
+.portfolio-list p{
+    font-size: 16px;
+    letter-spacing: 2%;
+    line-height: 1.5;
+    color: #434455;
+    
+}
