@@ -7,6 +7,12 @@ body {
   font-family: "Raleway", sans-serif;
   font-size: 18px;
   text-decoration: none;
+  color:#2E2F42;
+
+}
+header a span{
+    color:#4D5AE5;
+
 }
 .page-menu-list li {
     list-style-type: none;
@@ -50,5 +56,41 @@ h1{
     background-color: #2e2f42;
     text-align: center;
 }
+button { 
+    background-color: #4D5AE5;
+    width: 169px;
+    height: 56px;
+    top: 428px;
+    left: 638px;
+    color: #ffffff;
+    cursor: pointer;
+    border-radius: 4px;
+    padding:16px, 32px, 16px, 32px;
+    gap: 10px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 4%;
+}
+button :hover{
+    color: #404BBF;
+}
+.first-list-main li {
+    list-style: none;
+}
+.first-list-main li h2 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 0.83;
+    letter-spacing: 2%;
+    color: #2E2F42;
+}
+.first-list-main li p {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 2%;
+    color: #434455;
+}
+
 
 
