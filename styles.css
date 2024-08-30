@@ -144,5 +144,26 @@ button :hover{
     letter-spacing: 2%;
     line-height: 1.5;
     color: #434455;
-    
+
+}
+footer{
+    background-color: #2E2F42;
+
+}
+footer a{
+    font-weight: 700;
+    font-size: 18px;
+    text-decoration: none;
+    letter-spacing: 3%;
+    color: #F4F4FD;
+    font-family:"Raleway", sans-serif;
+}
+footer a span {
+    color: #4D5AE5;
+}
+footer p{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 2%;
+    color: #F4F4FD;
 }
