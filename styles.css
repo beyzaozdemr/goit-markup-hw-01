@@ -9,6 +9,7 @@ body {
   font-size: 18px;
   text-decoration: none;
   color: #2e2f42;
+  line-height: 1.1666666666666667;
 }
 header a span {
   color: #4d5ae5;
@@ -47,7 +48,7 @@ adress a:hover {
 h1 {
   font-size: 56px;
   font-weight: 700;
-  line-height: 1.07;
+  line-height: 1.0714285714285714;
   color: #ffffff;
   letter-spacing: 2%;
   background-color: #2e2f42;
@@ -78,7 +79,7 @@ button :hover {
 .first-list-main li h2 {
   font-weight: 500;
   font-size: 20px;
-  line-height: 0.83;
+  line-height: 1.2;
   letter-spacing: 2%;
   color: #2e2f42;
 }
@@ -94,7 +95,7 @@ button :hover {
 .team-class h2 {
   font-size: 36px;
   font-weight: 700;
-  line-height: 1.1;
+  line-height: 1.1111111111111112;
   text-align: center;
   letter-spacing: 2%;
   color: #2e2f42;
@@ -121,7 +122,7 @@ button :hover {
 .portfolio h2 {
   font-size: 36px;
   font-weight: 700;
-  line-height: 1.1;
+  line-height: 1.1111111111111112;
   text-align: center;
   letter-spacing: 2%;
   color: #2e2f42;
@@ -148,6 +149,7 @@ footer {
 footer a {
   font-weight: 700;
   font-size: 18px;
+  line-height: 1.1666666666666667;
   text-decoration: none;
   letter-spacing: 3%;
   color: #f4f4fd;
